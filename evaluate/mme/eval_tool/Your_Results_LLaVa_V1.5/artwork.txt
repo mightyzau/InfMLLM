@@ -1,0 +1,400 @@
+10002.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+10002.jpg	Does this artwork exist in the form of glassware?\nAnswer the question using a single word or phrase.	No
+10049.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+10049.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	No
+10256.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+10256.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	No
+10358.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+10358.jpg	Does this artwork exist in the form of glassware?\nAnswer the question using a single word or phrase.	No
+10543.jpg	Is this artwork displayed in fogg art museum, harvard university, cambridge?\nAnswer the question using a single word or phrase.	Yes
+10543.jpg	Is this artwork displayed in museo civico, pistoia?\nAnswer the question using a single word or phrase.	No
+10581.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	Yes
+10581.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	No
+1060.jpg	Is this artwork created by antoniazzo romano?\nAnswer the question using a single word or phrase.	Yes
+1060.jpg	Is this artwork created by gentile da fabriano?\nAnswer the question using a single word or phrase.	No
+10881.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+10881.jpg	Does this artwork exist in the form of tapestry?\nAnswer the question using a single word or phrase.	No
+10970.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+10970.jpg	Does this artwork belong to the type of study?\nAnswer the question using a single word or phrase.	No
+11276.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	Yes
+11276.jpg	Does this artwork exist in the form of graphics?\nAnswer the question using a single word or phrase.	No
+11331.jpg	Is this artwork created by donatello?\nAnswer the question using a single word or phrase.	Yes
+11331.jpg	Is this artwork created by zichy, mihály?\nAnswer the question using a single word or phrase.	No
+11488.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	Yes
+11488.jpg	Does this artwork belong to the type of historical?\nAnswer the question using a single word or phrase.	No
+11724.jpg	Is this artwork created by duccio di buoninsegna?\nAnswer the question using a single word or phrase.	Yes
+11724.jpg	Is this artwork created by giani, felice?\nAnswer the question using a single word or phrase.	No
+11726.jpg	Is this artwork titled temptation on the mountain (detail)?\nAnswer the question using a single word or phrase.	Yes
+11726.jpg	Is this artwork titled in the forest of fontainebleau?\nAnswer the question using a single word or phrase.	No
+12133.jpg	Is this artwork titled hand study with bible?\nAnswer the question using a single word or phrase.	Yes
+12133.jpg	Is this artwork titled self-portrait aged 78?\nAnswer the question using a single word or phrase.	No
+12439.jpg	Is this artwork created by dürer, albrecht?\nAnswer the question using a single word or phrase.	Yes
+12439.jpg	Is this artwork created by koekkoek, barend cornelis?\nAnswer the question using a single word or phrase.	No
+12561.jpg	Is this artwork created by eberlein, gustav heinrich?\nAnswer the question using a single word or phrase.	Yes
+12561.jpg	Is this artwork created by gillemans, jan pauwel the younger?\nAnswer the question using a single word or phrase.	No
+12652.jpg	Is this artwork displayed in stedelijk museum de lakenhal, leiden?\nAnswer the question using a single word or phrase.	Yes
+12652.jpg	Is this artwork displayed in palazzo ducale, mantua?\nAnswer the question using a single word or phrase.	No
+12736.jpg	Is this artwork displayed in cannon hall museum, barnsley?\nAnswer the question using a single word or phrase.	Yes
+12736.jpg	Is this artwork displayed in protestant parish church, gelnhausen?\nAnswer the question using a single word or phrase.	No
+12902.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+12902.jpg	Is this artwork displayed in musée national gustave-moreau, paris?\nAnswer the question using a single word or phrase.	No
+12908.jpg	Is this artwork titled ruth and boaz?\nAnswer the question using a single word or phrase.	Yes
+12908.jpg	Is this artwork titled view of dresden from the right bank of the elbe with the augustus bridge?\nAnswer the question using a single word or phrase.	No
+13091.jpg	Is this artwork titled italianate landscape with figures by classical ruins?\nAnswer the question using a single word or phrase.	Yes
+13091.jpg	Is this artwork titled two boys singing?\nAnswer the question using a single word or phrase.	No
+13174.jpg	Is this artwork titled nobility?\nAnswer the question using a single word or phrase.	Yes
+13174.jpg	Is this artwork titled aretino in the studio of tintoretto?\nAnswer the question using a single word or phrase.	No
+13239.jpg	Is this artwork titled doge ziani receiving the benediction of pope alexander iii?\nAnswer the question using a single word or phrase.	Yes
+13239.jpg	Is this artwork titled the adoration of the shepherds?\nAnswer the question using a single word or phrase.	No
+13288.jpg	Does this artwork exist in the form of architecture?\nAnswer the question using a single word or phrase.	Yes
+13288.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+13696.jpg	Is this artwork displayed in pinacoteca nazionale, siena?\nAnswer the question using a single word or phrase.	Yes
+13696.jpg	Is this artwork displayed in british embassy, paris?\nAnswer the question using a single word or phrase.	No
+13760.jpg	Is this artwork titled noli me tangere?\nAnswer the question using a single word or phrase.	Yes
+13760.jpg	Is this artwork titled profile study of a bearded man?\nAnswer the question using a single word or phrase.	No
+13821.jpg	Is this artwork created by frangipane, niccolò?\nAnswer the question using a single word or phrase.	Yes
+13821.jpg	Is this artwork created by drevet, pierre?\nAnswer the question using a single word or phrase.	No
+13901.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+13901.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+14283.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+14283.jpg	Does this artwork exist in the form of mosaic?\nAnswer the question using a single word or phrase.	No
+14499.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+14499.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	No
+14777.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+14777.jpg	Does this artwork belong to the type of historical?\nAnswer the question using a single word or phrase.	No
+15028.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	Yes
+15028.jpg	Does this artwork belong to the type of study?\nAnswer the question using a single word or phrase.	No
+15232.jpg	Is this artwork created by giordano, luca?\nAnswer the question using a single word or phrase.	Yes
+15232.jpg	Is this artwork created by heyerdahl, hans olaf?\nAnswer the question using a single word or phrase.	No
+15246.jpg	Is this artwork displayed in palazzo medici riccardi, florence?\nAnswer the question using a single word or phrase.	Yes
+15246.jpg	Is this artwork displayed in abbey church of sainte-foy, conques (aveyron)?\nAnswer the question using a single word or phrase.	No
+15311.jpg	Is this artwork created by giorgione?\nAnswer the question using a single word or phrase.	Yes
+15311.jpg	Is this artwork created by marilhat, prosper?\nAnswer the question using a single word or phrase.	No
+15989.jpg	Is this artwork displayed in pinacoteca, vatican?\nAnswer the question using a single word or phrase.	Yes
+15989.jpg	Is this artwork displayed in cathedral museum, zamora?\nAnswer the question using a single word or phrase.	No
+16006.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+16006.jpg	Is this artwork displayed in cathedral of san geminiano, modena?\nAnswer the question using a single word or phrase.	No
+16249.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	Yes
+16249.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	No
+16538.jpg	Is this artwork created by gogh, vincent van?\nAnswer the question using a single word or phrase.	Yes
+16538.jpg	Is this artwork created by altdorfer, albrecht?\nAnswer the question using a single word or phrase.	No
+16835.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+16835.jpg	Does this artwork exist in the form of illumination?\nAnswer the question using a single word or phrase.	No
+16911.jpg	Is this artwork created by gossart, jan?\nAnswer the question using a single word or phrase.	Yes
+16911.jpg	Is this artwork created by stanzione, massimo?\nAnswer the question using a single word or phrase.	No
+17311.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+17311.jpg	Does this artwork belong to the type of interior?\nAnswer the question using a single word or phrase.	No
+17317.jpg	Is this artwork created by gozzoli, benozzo?\nAnswer the question using a single word or phrase.	Yes
+17317.jpg	Is this artwork created by coriolano, cristoforo?\nAnswer the question using a single word or phrase.	No
+17535.jpg	Is this artwork created by grebber, pieter de?\nAnswer the question using a single word or phrase.	Yes
+17535.jpg	Is this artwork created by massys, quentin?\nAnswer the question using a single word or phrase.	No
+17823.jpg	Is this artwork created by greuze, jean-baptiste?\nAnswer the question using a single word or phrase.	Yes
+17823.jpg	Is this artwork created by landseer, sir edwin henry?\nAnswer the question using a single word or phrase.	No
+17838.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+17838.jpg	Does this artwork exist in the form of furniture?\nAnswer the question using a single word or phrase.	No
+17998.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+17998.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	No
+18566.jpg	Is this artwork created by hamen, juan van der?\nAnswer the question using a single word or phrase.	Yes
+18566.jpg	Is this artwork created by starnina, gherardo di jacopo?\nAnswer the question using a single word or phrase.	No
+18604.jpg	Is this artwork created by hardouin-mansart, jules?\nAnswer the question using a single word or phrase.	Yes
+18604.jpg	Is this artwork created by kerseboom, friedrich?\nAnswer the question using a single word or phrase.	No
+18722.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+18722.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	No
+1873.jpg	Does this artwork exist in the form of architecture?\nAnswer the question using a single word or phrase.	Yes
+1873.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	No
+18902.jpg	Is this artwork created by herrera, francisco de, the elder?\nAnswer the question using a single word or phrase.	Yes
+18902.jpg	Is this artwork created by ingres, jean-auguste-dominique?\nAnswer the question using a single word or phrase.	No
+18926.jpg	Is this artwork created by herring, john frederick the younger?\nAnswer the question using a single word or phrase.	Yes
+18926.jpg	Is this artwork created by cozens, john robert?\nAnswer the question using a single word or phrase.	No
+19087.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+19087.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+19154.jpg	Is this artwork titled portrait of the merchant georg gisze (detail)?\nAnswer the question using a single word or phrase.	Yes
+19154.jpg	Is this artwork titled pair of table candlesticks?\nAnswer the question using a single word or phrase.	No
+19417.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+19417.jpg	Does this artwork exist in the form of mosaic?\nAnswer the question using a single word or phrase.	No
+19452.jpg	Is this artwork titled the artist and his model?\nAnswer the question using a single word or phrase.	Yes
+19452.jpg	Is this artwork titled the lovesick maiden (detail)?\nAnswer the question using a single word or phrase.	No
+19839.jpg	Is this artwork created by janneck, franz christoph?\nAnswer the question using a single word or phrase.	Yes
+19839.jpg	Is this artwork created by goupil, jules-adolphe?\nAnswer the question using a single word or phrase.	No
+19863.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+19863.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	No
+19993.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+19993.jpg	Is this artwork displayed in cathedral of st paul, liège?\nAnswer the question using a single word or phrase.	No
+20176.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+20176.jpg	Does this artwork exist in the form of furniture?\nAnswer the question using a single word or phrase.	No
+20437.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+20437.jpg	Does this artwork exist in the form of tapestry?\nAnswer the question using a single word or phrase.	No
+20442.jpg	Is this artwork created by kucharski, aleksander?\nAnswer the question using a single word or phrase.	Yes
+20442.jpg	Is this artwork created by pourbus, frans the elder?\nAnswer the question using a single word or phrase.	No
+20455.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+20455.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+20483.jpg	Is this artwork titled allegory of the regency?\nAnswer the question using a single word or phrase.	Yes
+20483.jpg	Is this artwork titled breton woman bathing?\nAnswer the question using a single word or phrase.	No
+20490.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+20490.jpg	Does this artwork exist in the form of illumination?\nAnswer the question using a single word or phrase.	No
+20551.jpg	Is this artwork created by lagrenée, jean-jacques?\nAnswer the question using a single word or phrase.	Yes
+20551.jpg	Is this artwork created by scultori, diana?\nAnswer the question using a single word or phrase.	No
+20651.jpg	Is this artwork titled a highland landscape?\nAnswer the question using a single word or phrase.	Yes
+20651.jpg	Is this artwork titled a dog and a cat fighting in a kitchen interior?\nAnswer the question using a single word or phrase.	No
+20724.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	Yes
+20724.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	No
+21048.jpg	Is this artwork created by lemoyne, jean-baptiste ii?\nAnswer the question using a single word or phrase.	Yes
+21048.jpg	Is this artwork created by kneller, sir godfrey?\nAnswer the question using a single word or phrase.	No
+21097.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+21097.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	No
+21244.jpg	Does this artwork belong to the type of study?\nAnswer the question using a single word or phrase.	Yes
+21244.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	No
+21469.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	Yes
+21469.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	No
+21580.jpg	Is this artwork created by linard, jacques?\nAnswer the question using a single word or phrase.	Yes
+21580.jpg	Is this artwork created by bonino da campione?\nAnswer the question using a single word or phrase.	No
+21712.jpg	Is this artwork titled st john the evangelist resuscitating drusiana?\nAnswer the question using a single word or phrase.	Yes
+21712.jpg	Is this artwork titled la finette?\nAnswer the question using a single word or phrase.	No
+22329.jpg	Is this artwork titled marriage of the virgin?\nAnswer the question using a single word or phrase.	Yes
+22329.jpg	Is this artwork titled landscape with river and figures (detail)?\nAnswer the question using a single word or phrase.	No
+22366.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+22366.jpg	Does this artwork exist in the form of glassware?\nAnswer the question using a single word or phrase.	No
+22667.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+22667.jpg	Is this artwork displayed in san francesco d'assisi, pavia?\nAnswer the question using a single word or phrase.	No
+22760.jpg	Is this artwork titled madonna and child (detail)?\nAnswer the question using a single word or phrase.	Yes
+22760.jpg	Is this artwork titled view of the south and east walls?\nAnswer the question using a single word or phrase.	No
+22842.jpg	Is this artwork titled ukrainian peasant girl?\nAnswer the question using a single word or phrase.	Yes
+22842.jpg	Is this artwork titled virtue crowning merit?\nAnswer the question using a single word or phrase.	No
+23229.jpg	Is this artwork displayed in national gallery, london?\nAnswer the question using a single word or phrase.	Yes
+23229.jpg	Is this artwork displayed in notre-dame-la-riche, tours?\nAnswer the question using a single word or phrase.	No
+23427.jpg	Is this artwork displayed in the hermitage, st. petersburg?\nAnswer the question using a single word or phrase.	Yes
+23427.jpg	Is this artwork displayed in national gallery of victoria, melbourne?\nAnswer the question using a single word or phrase.	No
+23465.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+23465.jpg	Is this artwork displayed in cistertian church, zirc?\nAnswer the question using a single word or phrase.	No
+23824.jpg	Is this artwork titled christ walking on the water?\nAnswer the question using a single word or phrase.	Yes
+23824.jpg	Is this artwork titled mademoiselle romaine lacaux?\nAnswer the question using a single word or phrase.	No
+24122.jpg	Is this artwork displayed in museo correr, venice?\nAnswer the question using a single word or phrase.	Yes
+24122.jpg	Is this artwork displayed in church of brou, bourg-en-bresse?\nAnswer the question using a single word or phrase.	No
+24260.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+24260.jpg	Does this artwork exist in the form of illumination?\nAnswer the question using a single word or phrase.	No
+24291.jpg	Is this artwork titled virgin and child with sts catherine, cecilia, barbara, and ursula?\nAnswer the question using a single word or phrase.	Yes
+24291.jpg	Is this artwork titled sorrow?\nAnswer the question using a single word or phrase.	No
+24723.jpg	Is this artwork titled tomb of henry the lion and his wife matilda?\nAnswer the question using a single word or phrase.	Yes
+24723.jpg	Is this artwork titled god the father?\nAnswer the question using a single word or phrase.	No
+2490.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	Yes
+2490.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	No
+2507.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+2507.jpg	Is this artwork displayed in st. vitus's cathedral, prague?\nAnswer the question using a single word or phrase.	No
+25312.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+25312.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+25476.jpg	Is this artwork created by michelangelo buonarroti?\nAnswer the question using a single word or phrase.	Yes
+25476.jpg	Is this artwork created by beuckelaer, joachim?\nAnswer the question using a single word or phrase.	No
+25492.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	Yes
+25492.jpg	Does this artwork exist in the form of illumination?\nAnswer the question using a single word or phrase.	No
+25513.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+25513.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	No
+26521.jpg	Does this artwork exist in the form of illumination?\nAnswer the question using a single word or phrase.	Yes
+26521.jpg	Does this artwork exist in the form of furniture?\nAnswer the question using a single word or phrase.	No
+26973.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+26973.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	No
+27021.jpg	Is this artwork created by miniaturist, german?\nAnswer the question using a single word or phrase.	Yes
+27021.jpg	Is this artwork created by trinquesse, louis-rolland?\nAnswer the question using a single word or phrase.	No
+27662.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	Yes
+27662.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	No
+27936.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	Yes
+27936.jpg	Does this artwork belong to the type of interior?\nAnswer the question using a single word or phrase.	No
+28039.jpg	Is this artwork displayed in cappella palatina, palermo?\nAnswer the question using a single word or phrase.	Yes
+28039.jpg	Is this artwork displayed in musée des beaux-arts, chambéry?\nAnswer the question using a single word or phrase.	No
+28345.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+28345.jpg	Does this artwork exist in the form of tapestry?\nAnswer the question using a single word or phrase.	No
+28400.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+28400.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	No
+28698.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+28698.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	No
+28758.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+28758.jpg	Does this artwork exist in the form of graphics?\nAnswer the question using a single word or phrase.	No
+28974.jpg	Is this artwork titled prayer before the meal?\nAnswer the question using a single word or phrase.	Yes
+28974.jpg	Is this artwork titled rest in the mountains?\nAnswer the question using a single word or phrase.	No
+29266.jpg	Is this artwork created by palma vecchio?\nAnswer the question using a single word or phrase.	Yes
+29266.jpg	Is this artwork created by maris, jacobus hendricus?\nAnswer the question using a single word or phrase.	No
+30443.jpg	Is this artwork titled the crucifixion with sts jerome and christopher?\nAnswer the question using a single word or phrase.	Yes
+30443.jpg	Is this artwork titled tomb of michelangelo (detail)?\nAnswer the question using a single word or phrase.	No
+3085.jpg	Is this artwork created by bartsius, willem?\nAnswer the question using a single word or phrase.	Yes
+3085.jpg	Is this artwork created by oehme, ernst ferdinand?\nAnswer the question using a single word or phrase.	No
+30875.jpg	Is this artwork created by pomarancio?\nAnswer the question using a single word or phrase.	Yes
+30875.jpg	Is this artwork created by steen, jan?\nAnswer the question using a single word or phrase.	No
+3114.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+3114.jpg	Does this artwork belong to the type of study?\nAnswer the question using a single word or phrase.	No
+31808.jpg	Is this artwork created by raffaello sanzio?\nAnswer the question using a single word or phrase.	Yes
+31808.jpg	Is this artwork created by simon von taisten?\nAnswer the question using a single word or phrase.	No
+32147.jpg	Is this artwork titled lucretia?\nAnswer the question using a single word or phrase.	Yes
+32147.jpg	Is this artwork titled rinaldo abandoning armida (detail)?\nAnswer the question using a single word or phrase.	No
+3241.jpg	Is this artwork titled holy family?\nAnswer the question using a single word or phrase.	Yes
+3241.jpg	Is this artwork titled friedrich iii, the wise, and johann i, the constant, electors of saxony?\nAnswer the question using a single word or phrase.	No
+33017.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+33017.jpg	Does this artwork exist in the form of glassware?\nAnswer the question using a single word or phrase.	No
+33069.jpg	Does this artwork belong to the type of historical?\nAnswer the question using a single word or phrase.	Yes
+33069.jpg	Does this artwork belong to the type of interior?\nAnswer the question using a single word or phrase.	No
+33173.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+33173.jpg	Does this artwork exist in the form of graphics?\nAnswer the question using a single word or phrase.	No
+33753.jpg	Is this artwork titled vanitas?\nAnswer the question using a single word or phrase.	Yes
+33753.jpg	Is this artwork titled legend of st francis: 18. apparition at arles (detail)?\nAnswer the question using a single word or phrase.	No
+33854.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+33854.jpg	Does this artwork belong to the type of study?\nAnswer the question using a single word or phrase.	No
+339.jpg	Is this artwork displayed in staatliche museen, berlin?\nAnswer the question using a single word or phrase.	Yes
+339.jpg	Is this artwork displayed in national museum of religious carvings, valladolid?\nAnswer the question using a single word or phrase.	No
+33933.jpg	Is this artwork titled madonna and child?\nAnswer the question using a single word or phrase.	Yes
+33933.jpg	Is this artwork titled the bacino di san marco?\nAnswer the question using a single word or phrase.	No
+3404.jpg	Is this artwork displayed in szépmûvészeti múzeum, budapest?\nAnswer the question using a single word or phrase.	Yes
+3404.jpg	Is this artwork displayed in s. eustorgio, milan?\nAnswer the question using a single word or phrase.	No
+34109.jpg	Is this artwork displayed in national gallery of art, washington?\nAnswer the question using a single word or phrase.	Yes
+34109.jpg	Is this artwork displayed in abbey church of sainte-foy, conques?\nAnswer the question using a single word or phrase.	No
+34363.jpg	Is this artwork displayed in museo del prado, madrid?\nAnswer the question using a single word or phrase.	Yes
+34363.jpg	Is this artwork displayed in state tretyakov gallery, moscow?\nAnswer the question using a single word or phrase.	No
+34539.jpg	Is this artwork titled the victory of eucharistic truth over heresy?\nAnswer the question using a single word or phrase.	Yes
+34539.jpg	Is this artwork titled a sunday afternoon on the ile de la grande jatte?\nAnswer the question using a single word or phrase.	No
+34627.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	Yes
+34627.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	No
+34638.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+34638.jpg	Does this artwork exist in the form of tapestry?\nAnswer the question using a single word or phrase.	No
+34669.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	Yes
+34669.jpg	Does this artwork belong to the type of historical?\nAnswer the question using a single word or phrase.	No
+35345.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+35345.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	No
+35439.jpg	Is this artwork titled madonna and child with a host of musical angels?\nAnswer the question using a single word or phrase.	Yes
+35439.jpg	Is this artwork titled garden in fontenay?\nAnswer the question using a single word or phrase.	No
+35460.jpg	Is this artwork created by schinkel, karl friedrich?\nAnswer the question using a single word or phrase.	Yes
+35460.jpg	Is this artwork created by giolfino, bartolomeo?\nAnswer the question using a single word or phrase.	No
+35486.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+35486.jpg	Does this artwork exist in the form of furniture?\nAnswer the question using a single word or phrase.	No
+35513.jpg	Is this artwork created by schongauer, martin?\nAnswer the question using a single word or phrase.	Yes
+35513.jpg	Is this artwork created by cassioli, amos?\nAnswer the question using a single word or phrase.	No
+3552.jpg	Is this artwork titled madonna degli alberetti?\nAnswer the question using a single word or phrase.	Yes
+3552.jpg	Is this artwork titled peter gillis?\nAnswer the question using a single word or phrase.	No
+35658.jpg	Is this artwork created by sebastiano del piombo?\nAnswer the question using a single word or phrase.	Yes
+35658.jpg	Is this artwork created by jacobsz., dirck?\nAnswer the question using a single word or phrase.	No
+35736.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+35736.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	No
+35861.jpg	Does this artwork belong to the type of interior?\nAnswer the question using a single word or phrase.	Yes
+35861.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	No
+36805.jpg	Is this artwork titled weir?\nAnswer the question using a single word or phrase.	Yes
+36805.jpg	Is this artwork titled view of the window wall?\nAnswer the question using a single word or phrase.	No
+36966.jpg	Does this artwork belong to the type of portrait?\nAnswer the question using a single word or phrase.	Yes
+36966.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	No
+37010.jpg	Is this artwork titled madonna and child with the young st john?\nAnswer the question using a single word or phrase.	Yes
+37010.jpg	Is this artwork titled sketch for attila?\nAnswer the question using a single word or phrase.	No
+37077.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+37077.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	No
+37439.jpg	Is this artwork titled the message?\nAnswer the question using a single word or phrase.	Yes
+37439.jpg	Is this artwork titled the descent from the cross?\nAnswer the question using a single word or phrase.	No
+37819.jpg	Is this artwork created by tiepolo, giovanni battista?\nAnswer the question using a single word or phrase.	Yes
+37819.jpg	Is this artwork created by kerricx, willem ignatius?\nAnswer the question using a single word or phrase.	No
+37866.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	Yes
+37866.jpg	Does this artwork belong to the type of still-life?\nAnswer the question using a single word or phrase.	No
+381.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+381.jpg	Does this artwork exist in the form of architecture?\nAnswer the question using a single word or phrase.	No
+38178.jpg	Is this artwork created by tintoretto?\nAnswer the question using a single word or phrase.	Yes
+38178.jpg	Is this artwork created by morel, jean-baptiste?\nAnswer the question using a single word or phrase.	No
+38536.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+38536.jpg	Does this artwork exist in the form of furniture?\nAnswer the question using a single word or phrase.	No
+38546.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+38546.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+38694.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+38694.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+38740.jpg	Is this artwork displayed in musée toulouse-lautrec, albi?\nAnswer the question using a single word or phrase.	Yes
+38740.jpg	Is this artwork displayed in kupferstichkabinett, gotha?\nAnswer the question using a single word or phrase.	No
+38881.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	Yes
+38881.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	No
+38993.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+38993.jpg	Does this artwork exist in the form of illumination?\nAnswer the question using a single word or phrase.	No
+39026.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+39026.jpg	Does this artwork belong to the type of historical?\nAnswer the question using a single word or phrase.	No
+39124.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+39124.jpg	Does this artwork exist in the form of graphics?\nAnswer the question using a single word or phrase.	No
+39188.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+39188.jpg	Does this artwork exist in the form of architecture?\nAnswer the question using a single word or phrase.	No
+39482.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+39482.jpg	Does this artwork exist in the form of metalwork?\nAnswer the question using a single word or phrase.	No
+39556.jpg	Is this artwork created by unknown master, dutch?\nAnswer the question using a single word or phrase.	Yes
+39556.jpg	Is this artwork created by cuyp, benjamin gerritsz.?\nAnswer the question using a single word or phrase.	No
+41036.jpg	Is this artwork displayed in kunsthistorisches museum, vienna?\nAnswer the question using a single word or phrase.	Yes
+41036.jpg	Is this artwork displayed in national museum of art, minsk?\nAnswer the question using a single word or phrase.	No
+41371.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+41371.jpg	Does this artwork exist in the form of architecture?\nAnswer the question using a single word or phrase.	No
+41484.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+41484.jpg	Does this artwork belong to the type of historical?\nAnswer the question using a single word or phrase.	No
+41594.jpg	Is this artwork created by veronese, paolo?\nAnswer the question using a single word or phrase.	Yes
+41594.jpg	Is this artwork created by jeaurat, etienne?\nAnswer the question using a single word or phrase.	No
+416.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	Yes
+416.jpg	Does this artwork exist in the form of others?\nAnswer the question using a single word or phrase.	No
+41653.jpg	Is this artwork titled view of the sala del collegio?\nAnswer the question using a single word or phrase.	Yes
+41653.jpg	Is this artwork titled reine lefebvre and margot?\nAnswer the question using a single word or phrase.	No
+41944.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+41944.jpg	Does this artwork exist in the form of mosaic?\nAnswer the question using a single word or phrase.	No
+42152.jpg	Is this artwork titled the pieterskerk in leiden?\nAnswer the question using a single word or phrase.	Yes
+42152.jpg	Is this artwork titled portrait of cardinal reginald pole?\nAnswer the question using a single word or phrase.	No
+42288.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+42288.jpg	Does this artwork exist in the form of stained-glass?\nAnswer the question using a single word or phrase.	No
+42303.jpg	Is this artwork displayed in art museum, cincinnati?\nAnswer the question using a single word or phrase.	Yes
+42303.jpg	Is this artwork displayed in banca del monte di bologna e ravenna, bologna?\nAnswer the question using a single word or phrase.	No
+42401.jpg	Is this artwork created by waldmüller, fedinand georg?\nAnswer the question using a single word or phrase.	Yes
+42401.jpg	Is this artwork created by seeman, enoch?\nAnswer the question using a single word or phrase.	No
+42447.jpg	Is this artwork displayed in musée du louvre, paris?\nAnswer the question using a single word or phrase.	Yes
+42447.jpg	Is this artwork displayed in santa catarina, pisa?\nAnswer the question using a single word or phrase.	No
+42585.jpg	Is this artwork created by werff, pieter van der?\nAnswer the question using a single word or phrase.	Yes
+42585.jpg	Is this artwork created by domenichini, apollonio?\nAnswer the question using a single word or phrase.	No
+42706.jpg	Is this artwork displayed in musée du louvre, paris?\nAnswer the question using a single word or phrase.	Yes
+42706.jpg	Is this artwork displayed in galleria nazionale d'arte moderna e contemporanea, rome?\nAnswer the question using a single word or phrase.	No
+42796.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+42796.jpg	Is this artwork displayed in museo di san salvi, florence?\nAnswer the question using a single word or phrase.	No
+42857.jpg	Does this artwork belong to the type of landscape?\nAnswer the question using a single word or phrase.	Yes
+42857.jpg	Does this artwork belong to the type of study?\nAnswer the question using a single word or phrase.	No
+42905.jpg	Is this artwork created by wit, jacob de?\nAnswer the question using a single word or phrase.	Yes
+42905.jpg	Is this artwork created by vittone, bernardo antonio?\nAnswer the question using a single word or phrase.	No
+42941.jpg	Is this artwork created by witte, emanuel de?\nAnswer the question using a single word or phrase.	Yes
+42941.jpg	Is this artwork created by bicci di neri?\nAnswer the question using a single word or phrase.	No
+42956.jpg	Is this artwork titled view of rome with the tiberand castel sant'angelo?\nAnswer the question using a single word or phrase.	Yes
+42956.jpg	Is this artwork titled st bonaventure enters the franciscan order?\nAnswer the question using a single word or phrase.	No
+42987.jpg	Is this artwork created by witz, konrad?\nAnswer the question using a single word or phrase.	Yes
+42987.jpg	Is this artwork created by christus, petrus?\nAnswer the question using a single word or phrase.	No
+43142.jpg	Does this artwork belong to the type of mythological?\nAnswer the question using a single word or phrase.	Yes
+43142.jpg	Does this artwork belong to the type of interior?\nAnswer the question using a single word or phrase.	No
+43175.jpg	Is this artwork displayed in private collection?\nAnswer the question using a single word or phrase.	Yes
+43175.jpg	Is this artwork displayed in smith college museum of art, northampton?\nAnswer the question using a single word or phrase.	No
+43349.jpg	Is this artwork created by zuccarelli, francesco?\nAnswer the question using a single word or phrase.	Yes
+43349.jpg	Is this artwork created by baccanelli, giovanni antonio di giulio?\nAnswer the question using a single word or phrase.	No
+43445.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+43445.jpg	Does this artwork belong to the type of interior?\nAnswer the question using a single word or phrase.	No
+4836.jpg	Is this artwork displayed in villa cornaro, piombino dese?\nAnswer the question using a single word or phrase.	Yes
+4836.jpg	Is this artwork displayed in palais saint-vaast, arras?\nAnswer the question using a single word or phrase.	No
+5227.jpg	Is this artwork created by botticelli, sandro?\nAnswer the question using a single word or phrase.	Yes
+5227.jpg	Is this artwork created by vigri, caterina?\nAnswer the question using a single word or phrase.	No
+526.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+526.jpg	Does this artwork exist in the form of tapestry?\nAnswer the question using a single word or phrase.	No
+5906.jpg	Is this artwork created by bronzino, agnolo?\nAnswer the question using a single word or phrase.	Yes
+5906.jpg	Is this artwork created by pellegrino da san daniele?\nAnswer the question using a single word or phrase.	No
+6168.jpg	Does this artwork exist in the form of graphics?\nAnswer the question using a single word or phrase.	Yes
+6168.jpg	Does this artwork exist in the form of tapestry?\nAnswer the question using a single word or phrase.	No
+6297.jpg	Is this artwork titled peasants making merry outside a tavern 'the swan'?\nAnswer the question using a single word or phrase.	Yes
+6297.jpg	Is this artwork titled allegory of quietude?\nAnswer the question using a single word or phrase.	No
+6478.jpg	Does this artwork belong to the type of religious?\nAnswer the question using a single word or phrase.	Yes
+6478.jpg	Does this artwork belong to the type of genre?\nAnswer the question using a single word or phrase.	No
+6969.jpg	Is this artwork titled letizia ramolino bonaparte?\nAnswer the question using a single word or phrase.	Yes
+6969.jpg	Is this artwork titled job and his daughters?\nAnswer the question using a single word or phrase.	No
+701.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+701.jpg	Does this artwork exist in the form of others?\nAnswer the question using a single word or phrase.	No
+7702.jpg	Is this artwork titled reine lefebvre and margot?\nAnswer the question using a single word or phrase.	Yes
+7702.jpg	Is this artwork titled fire in the oil depot at san marcuola?\nAnswer the question using a single word or phrase.	No
+8101.jpg	Is this artwork displayed in museu de arte, são paulo?\nAnswer the question using a single word or phrase.	Yes
+8101.jpg	Is this artwork displayed in national széchényi library, budapest?\nAnswer the question using a single word or phrase.	No
+815.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+815.jpg	Does this artwork exist in the form of furniture?\nAnswer the question using a single word or phrase.	No
+8797.jpg	Is this artwork created by coecke van aelst, pieter?\nAnswer the question using a single word or phrase.	Yes
+8797.jpg	Is this artwork created by abaquesne, masséot?\nAnswer the question using a single word or phrase.	No
+8885.jpg	Is this artwork displayed in art museum, saint louis?\nAnswer the question using a single word or phrase.	Yes
+8885.jpg	Is this artwork displayed in museo civico d'arte antica, turin?\nAnswer the question using a single word or phrase.	No
+9153.jpg	Is this artwork displayed in galleria nazionale, parma?\nAnswer the question using a single word or phrase.	Yes
+9153.jpg	Is this artwork displayed in hospital de san bernardo, seville?\nAnswer the question using a single word or phrase.	No
+9395.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+9395.jpg	Does this artwork exist in the form of stained-glass?\nAnswer the question using a single word or phrase.	No
+9405.jpg	Is this artwork created by courbet, gustave?\nAnswer the question using a single word or phrase.	Yes
+9405.jpg	Is this artwork created by milani, aureliano?\nAnswer the question using a single word or phrase.	No
+9599.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	Yes
+9599.jpg	Does this artwork exist in the form of ceramics?\nAnswer the question using a single word or phrase.	No
+995.jpg	Does this artwork exist in the form of sculpture?\nAnswer the question using a single word or phrase.	Yes
+995.jpg	Does this artwork exist in the form of painting?\nAnswer the question using a single word or phrase.	No

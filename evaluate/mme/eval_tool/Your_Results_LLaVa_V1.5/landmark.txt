@@ -1,0 +1,400 @@
+0006adf999ccc899.jpg	Is this a photo of Muktinath?\nAnswer the question using a single word or phrase.	Yes
+0006adf999ccc899.jpg	Is this a photo of Lohikoski Church?\nAnswer the question using a single word or phrase.	No
+0015309638e5a9b1.jpg	Is this a picture of Teufelsmauer (Harz)?\nAnswer the question using a single word or phrase.	Yes
+0015309638e5a9b1.jpg	Is this a picture of Romfo kirke?\nAnswer the question using a single word or phrase.	No
+001f0bfe8464254a.jpg	Is this a picture of Saint Catherine of Alexandria church in Warsaw?\nAnswer the question using a single word or phrase.	Yes
+001f0bfe8464254a.jpg	Is this a picture of Kaap Skil?\nAnswer the question using a single word or phrase.	No
+0022666a36b80ea5.jpg	Is this an image of Hall of Supreme Harmony (Forbidden City)?\nAnswer the question using a single word or phrase.	Yes
+0022666a36b80ea5.jpg	Is this an image of Brickegickel?\nAnswer the question using a single word or phrase.	No
+0023bd687cbc0a44.jpg	Is this a photo of Utrecht Dom Tower?\nAnswer the question using a single word or phrase.	Yes
+0023bd687cbc0a44.jpg	Is this a photo of Great Palace Mosaic Museum?\nAnswer the question using a single word or phrase.	No
+00261324328490fc.jpg	Is this an image of Loch Ossian?\nAnswer the question using a single word or phrase.	Yes
+00261324328490fc.jpg	Is this an image of Tanemakidaishi?\nAnswer the question using a single word or phrase.	No
+002ae473a76362a6.jpg	Is this an image of Gerlache Strait?\nAnswer the question using a single word or phrase.	Yes
+002ae473a76362a6.jpg	Is this an image of Schmiedebruch (Naturschutzgebiet)?\nAnswer the question using a single word or phrase.	No
+003f8af9477a8eb8.jpg	Is this a photo of Le Destroit?\nAnswer the question using a single word or phrase.	Yes
+003f8af9477a8eb8.jpg	Is this a photo of Kharkov Mosque?\nAnswer the question using a single word or phrase.	No
+004543cec064cd0b.jpg	Is this a picture of Wollaton Park?\nAnswer the question using a single word or phrase.	Yes
+004543cec064cd0b.jpg	Is this a picture of St John's Church, Blackpool?\nAnswer the question using a single word or phrase.	No
+004beea6937b3a8c.jpg	Is this a photo of Brussels Park?\nAnswer the question using a single word or phrase.	Yes
+004beea6937b3a8c.jpg	Is this a photo of Forest Hills Cemetery (Boston, Massachusetts)?\nAnswer the question using a single word or phrase.	No
+005150f80de6f487.jpg	Is this a photo of Schloss Burgpreppach?\nAnswer the question using a single word or phrase.	Yes
+005150f80de6f487.jpg	Is this a photo of Pinkas Synagogue?\nAnswer the question using a single word or phrase.	No
+0053894534d1e259.jpg	Is this a picture of Goethe- und Schiller-Denkmal (Weimar)?\nAnswer the question using a single word or phrase.	Yes
+0053894534d1e259.jpg	Is this a picture of Grey River?\nAnswer the question using a single word or phrase.	No
+0059fc817c5fd5b7.jpg	Is this a photo of KLCC Park?\nAnswer the question using a single word or phrase.	Yes
+0059fc817c5fd5b7.jpg	Is this a photo of Neath Castle?\nAnswer the question using a single word or phrase.	No
+005c68530bb6ed7c.jpg	Is this a photo of Balvenie Castle?\nAnswer the question using a single word or phrase.	Yes
+005c68530bb6ed7c.jpg	Is this a photo of Draper Utah Temple?\nAnswer the question using a single word or phrase.	No
+006e3342b57aa3b4.jpg	Is this a photo of Larvs kyrka?\nAnswer the question using a single word or phrase.	Yes
+006e3342b57aa3b4.jpg	Is this a photo of Geitgallien?\nAnswer the question using a single word or phrase.	No
+0075a4d212539625.jpg	Is this a photo of Cardiff Castle?\nAnswer the question using a single word or phrase.	Yes
+0075a4d212539625.jpg	Is this a photo of Boudhanath?\nAnswer the question using a single word or phrase.	No
+008053e6bb5afa33.jpg	Is this a photo of Rochers des Mourres?\nAnswer the question using a single word or phrase.	Yes
+008053e6bb5afa33.jpg	Is this a photo of Schloss Weinfelden?\nAnswer the question using a single word or phrase.	No
+00c1349a9622390c.jpg	Is this a photo of Amar Jawan Jyoti (Tomb of the Unknown Soldier)?\nAnswer the question using a single word or phrase.	Yes
+00c1349a9622390c.jpg	Is this a photo of Porta Garibaldi (Marsala)?\nAnswer the question using a single word or phrase.	No
+00cae9f165d8d2cc.jpg	Is this an image of Fisherman's Bastion?\nAnswer the question using a single word or phrase.	Yes
+00cae9f165d8d2cc.jpg	Is this an image of Equestrian statue of George IV, Trafalgar Square, London?\nAnswer the question using a single word or phrase.	No
+00f4fb71575efb0b.jpg	Is this a picture of 1965)?\nAnswer the question using a single word or phrase.	Yes
+00f4fb71575efb0b.jpg	Is this a picture of Plaza Monumental de Toros de Pueblo Nuevo?\nAnswer the question using a single word or phrase.	No
+00fa476690a260a8.jpg	Is this an image of Bathampton Toll Bridge?\nAnswer the question using a single word or phrase.	Yes
+00fa476690a260a8.jpg	Is this an image of Moose River Plains Wild Forest?\nAnswer the question using a single word or phrase.	No
+010260e62e7d847d.jpg	Is this a photo of Visingsborg?\nAnswer the question using a single word or phrase.	Yes
+010260e62e7d847d.jpg	Is this a photo of Teutsche Schule (Schleusingen)?\nAnswer the question using a single word or phrase.	No
+010b5b5c9c461f65.jpg	Is this an image of Het Steen?\nAnswer the question using a single word or phrase.	Yes
+010b5b5c9c461f65.jpg	Is this an image of Castello di Montalto Dora?\nAnswer the question using a single word or phrase.	No
+01114538f95f1ce8.jpg	Is this a picture of Svirzh Castle?\nAnswer the question using a single word or phrase.	Yes
+01114538f95f1ce8.jpg	Is this a picture of Bistrica, Ionian Sea?\nAnswer the question using a single word or phrase.	No
+01121b9b3c79afc4.jpg	Is this a photo of Alamannenmuseum Ellwangen?\nAnswer the question using a single word or phrase.	Yes
+01121b9b3c79afc4.jpg	Is this a photo of Sint-Jozefkerk, Enschede?\nAnswer the question using a single word or phrase.	No
+011a19afda5df3c7.jpg	Is this a picture of San Prospero (Reggio Emilia)?\nAnswer the question using a single word or phrase.	Yes
+011a19afda5df3c7.jpg	Is this a picture of Lake DeFuniak?\nAnswer the question using a single word or phrase.	No
+012856462a95ada9.jpg	Is this a picture of Chingshui Cliff?\nAnswer the question using a single word or phrase.	Yes
+012856462a95ada9.jpg	Is this a picture of St. John's Church, Portland?\nAnswer the question using a single word or phrase.	No
+012ea376a16f17bf.jpg	Is this a picture of Church of Saint Giles in Prague?\nAnswer the question using a single word or phrase.	Yes
+012ea376a16f17bf.jpg	Is this a picture of Pfarrkirche St. Martin an der Raab?\nAnswer the question using a single word or phrase.	No
+013e1a1e887cb915.jpg	Is this a picture of Real Casa de Correos, Madrid?\nAnswer the question using a single word or phrase.	Yes
+013e1a1e887cb915.jpg	Is this a picture of Ayton Castle, Scottish Borders?\nAnswer the question using a single word or phrase.	No
+0140a7d5446719c3.jpg	Is this a photo of Friday Mosque, Herat?\nAnswer the question using a single word or phrase.	Yes
+0140a7d5446719c3.jpg	Is this a photo of Hexenturm (Burg (bei Magdeburg))?\nAnswer the question using a single word or phrase.	No
+01416124a7ab211a.jpg	Is this a photo of Ajuntament de Mollerussa?\nAnswer the question using a single word or phrase.	Yes
+01416124a7ab211a.jpg	Is this a photo of Episcopal Diocese of Northern Indiana?\nAnswer the question using a single word or phrase.	No
+01425c4d35880aad.jpg	Is this an image of Museu de Sant Boi de Llobregat?\nAnswer the question using a single word or phrase.	Yes
+01425c4d35880aad.jpg	Is this an image of Bezdonnoye Lake, Moscow Oblast?\nAnswer the question using a single word or phrase.	No
+014c50e91cf799c7.jpg	Is this a photo of Clearwater Beach, Florida?\nAnswer the question using a single word or phrase.	Yes
+014c50e91cf799c7.jpg	Is this a photo of Church of Holy Trinity in Vratislavice nad Nisou?\nAnswer the question using a single word or phrase.	No
+015543ddea466c54.jpg	Is this a picture of Galician market square in Skansen, Sanok?\nAnswer the question using a single word or phrase.	Yes
+015543ddea466c54.jpg	Is this a picture of Walworth Castle?\nAnswer the question using a single word or phrase.	No
+0169c4235270f65b.jpg	Is this a photo of St. Ricarius Church, Aberford?\nAnswer the question using a single word or phrase.	Yes
+0169c4235270f65b.jpg	Is this a photo of Schloss Prebberede?\nAnswer the question using a single word or phrase.	No
+016e68628ea6c7ee.jpg	Is this an image of Jewish Ceremonial Hall, Prague-Josefov?\nAnswer the question using a single word or phrase.	Yes
+016e68628ea6c7ee.jpg	Is this an image of Our Lady Church (Ettlingen)?\nAnswer the question using a single word or phrase.	No
+01862535ce8961ee.jpg	Is this an image of Mont Tendre?\nAnswer the question using a single word or phrase.	Yes
+01862535ce8961ee.jpg	Is this an image of Ogden Utah Temple?\nAnswer the question using a single word or phrase.	No
+0186742e7963fb3c.jpg	Is this a photo of Ozegahara?\nAnswer the question using a single word or phrase.	Yes
+0186742e7963fb3c.jpg	Is this a photo of San Giovenale (Orvieto)?\nAnswer the question using a single word or phrase.	No
+01928acd6dfe6cdd.jpg	Is this a picture of Watergate Bay?\nAnswer the question using a single word or phrase.	Yes
+01928acd6dfe6cdd.jpg	Is this a picture of Cairnpapple Hill?\nAnswer the question using a single word or phrase.	No
+01a6842099d62f22.jpg	Is this an image of Clark Veterans Cemetery?\nAnswer the question using a single word or phrase.	Yes
+01a6842099d62f22.jpg	Is this an image of Mirdif City Centre?\nAnswer the question using a single word or phrase.	No
+01aca2d30b43d05f.jpg	Is this a picture of Monte Minerva (Villanova Monteleone)?\nAnswer the question using a single word or phrase.	Yes
+01aca2d30b43d05f.jpg	Is this a picture of Dorfkirche Gnandstein?\nAnswer the question using a single word or phrase.	No
+01b12048bab7439f.jpg	Is this a photo of Kaptai Lake?\nAnswer the question using a single word or phrase.	Yes
+01b12048bab7439f.jpg	Is this a photo of Castle of the Conception?\nAnswer the question using a single word or phrase.	No
+01b715ceb7050bce.jpg	Is this a picture of Kalamita fortress?\nAnswer the question using a single word or phrase.	Yes
+01b715ceb7050bce.jpg	Is this a picture of Augsburger Hotelturm?\nAnswer the question using a single word or phrase.	No
+01b9b58a573c45f0.jpg	Is this a picture of St Mary Redcliffe?\nAnswer the question using a single word or phrase.	Yes
+01b9b58a573c45f0.jpg	Is this a picture of Kirche zur Heiligsten Dreifaltigkeit, Vienna?\nAnswer the question using a single word or phrase.	No
+01bc5557ed2616ad.jpg	Is this a photo of Intercession of the Theotokos church in Lutsk?\nAnswer the question using a single word or phrase.	Yes
+01bc5557ed2616ad.jpg	Is this a photo of Cap 110?\nAnswer the question using a single word or phrase.	No
+01c0e0ff84631905.jpg	Is this a photo of Ribblehead Viaduct?\nAnswer the question using a single word or phrase.	Yes
+01c0e0ff84631905.jpg	Is this a photo of Church of Saint George in Koptevo?\nAnswer the question using a single word or phrase.	No
+01d6e386c4a01ab3.jpg	Is this a picture of Rotes Rathaus?\nAnswer the question using a single word or phrase.	Yes
+01d6e386c4a01ab3.jpg	Is this a picture of Mahipatgad?\nAnswer the question using a single word or phrase.	No
+01d9bef0120557a5.jpg	Is this a photo of Andronikov Monastery?\nAnswer the question using a single word or phrase.	Yes
+01d9bef0120557a5.jpg	Is this a photo of Ghatkopar?\nAnswer the question using a single word or phrase.	No
+01e198bea8285816.jpg	Is this an image of Saint Basil church, Volodymyr-Volynskyi?\nAnswer the question using a single word or phrase.	Yes
+01e198bea8285816.jpg	Is this an image of Hoher Markt, Vienna?\nAnswer the question using a single word or phrase.	No
+01f23b4c5253e9c6.jpg	Is this a picture of Goethes Gartenhaus?\nAnswer the question using a single word or phrase.	Yes
+01f23b4c5253e9c6.jpg	Is this a picture of Lamba, Shetland Islands?\nAnswer the question using a single word or phrase.	No
+01ffc77bdf7fe084.jpg	Is this a picture of Oldemorstoft?\nAnswer the question using a single word or phrase.	Yes
+01ffc77bdf7fe084.jpg	Is this a picture of Roman Catholic Diocese of Antwerp?\nAnswer the question using a single word or phrase.	No
+0200cce957e9c4a6.jpg	Is this a photo of Malmuerta Tower?\nAnswer the question using a single word or phrase.	Yes
+0200cce957e9c4a6.jpg	Is this a photo of Monte Lema?\nAnswer the question using a single word or phrase.	No
+0202aac6b0bfbcd8.jpg	Is this a picture of Gettysburg National Military Park?\nAnswer the question using a single word or phrase.	Yes
+0202aac6b0bfbcd8.jpg	Is this a picture of Auron?\nAnswer the question using a single word or phrase.	No
+0205343362e60daf.jpg	Is this a picture of Church of Our Lady of Sorrows in Riga?\nAnswer the question using a single word or phrase.	Yes
+0205343362e60daf.jpg	Is this a picture of Simon en Judaskerk (Ootmarsum)?\nAnswer the question using a single word or phrase.	No
+020ae4dd487a8ab0.jpg	Is this a photo of Kashueti Church?\nAnswer the question using a single word or phrase.	Yes
+020ae4dd487a8ab0.jpg	Is this a photo of Colorado State Capitol?\nAnswer the question using a single word or phrase.	No
+02259144c3f094f0.jpg	Is this a picture of The American Adventure?\nAnswer the question using a single word or phrase.	Yes
+02259144c3f094f0.jpg	Is this a picture of Langenwaldschanze?\nAnswer the question using a single word or phrase.	No
+0237fc92f6b31aeb.jpg	Is this a photo of Abbaye de Mortemer?\nAnswer the question using a single word or phrase.	Yes
+0237fc92f6b31aeb.jpg	Is this a photo of St Thomas Rest Park?\nAnswer the question using a single word or phrase.	No
+0240727dbd2b8531.jpg	Is this a photo of Nicolaikerk Appingedam?\nAnswer the question using a single word or phrase.	Yes
+0240727dbd2b8531.jpg	Is this a photo of Cutimbo?\nAnswer the question using a single word or phrase.	No
+02545ca051c6c480.jpg	Is this a photo of Podilski Tovtry National Nature Park?\nAnswer the question using a single word or phrase.	Yes
+02545ca051c6c480.jpg	Is this a photo of Lyndonville, Vermont?\nAnswer the question using a single word or phrase.	No
+02598153523880aa.jpg	Is this a photo of Marilao Church?\nAnswer the question using a single word or phrase.	Yes
+02598153523880aa.jpg	Is this a photo of Madliena, Malta?\nAnswer the question using a single word or phrase.	No
+02737bb70957827d.jpg	Is this an image of White Pagoda in Zhakou?\nAnswer the question using a single word or phrase.	Yes
+02737bb70957827d.jpg	Is this an image of Norrstrandskyrkan?\nAnswer the question using a single word or phrase.	No
+0273f127895337be.jpg	Is this a photo of Ringkirche?\nAnswer the question using a single word or phrase.	Yes
+0273f127895337be.jpg	Is this a photo of Huxi Mosque?\nAnswer the question using a single word or phrase.	No
+02785530b6ac4f56.jpg	Is this a picture of Church of Nicholas the Wet?\nAnswer the question using a single word or phrase.	Yes
+02785530b6ac4f56.jpg	Is this a picture of Razula?\nAnswer the question using a single word or phrase.	No
+028348883685db69.jpg	Is this an image of Saint Andrew the Apostle Church?\nAnswer the question using a single word or phrase.	Yes
+028348883685db69.jpg	Is this an image of EYE Film Institute Netherlands?\nAnswer the question using a single word or phrase.	No
+029431b10472c228.jpg	Is this a picture of Santa Caterina (Sassari)?\nAnswer the question using a single word or phrase.	Yes
+029431b10472c228.jpg	Is this a picture of Former Tainan Assembly Hall?\nAnswer the question using a single word or phrase.	No
+0295877d5cd76190.jpg	Is this a picture of Groothoofdspoort?\nAnswer the question using a single word or phrase.	Yes
+0295877d5cd76190.jpg	Is this a picture of 707 17th Street?\nAnswer the question using a single word or phrase.	No
+02b16429304b00b7.jpg	Is this a picture of De Haag?\nAnswer the question using a single word or phrase.	Yes
+02b16429304b00b7.jpg	Is this a picture of Villa Melchett?\nAnswer the question using a single word or phrase.	No
+02b7f3ae549582f1.jpg	Is this a photo of Pont-canal de Digoin?\nAnswer the question using a single word or phrase.	Yes
+02b7f3ae549582f1.jpg	Is this a photo of Trenton Battle Monument?\nAnswer the question using a single word or phrase.	No
+02d11e392d3ab93f.jpg	Is this an image of Santa Monica Parish Church in Angat, Bulacan?\nAnswer the question using a single word or phrase.	Yes
+02d11e392d3ab93f.jpg	Is this an image of Bangkok City Pillar Shrine?\nAnswer the question using a single word or phrase.	No
+02e38cd5a3850f60.jpg	Is this a photo of Palazzo Cavalli Franchetti (Venice)?\nAnswer the question using a single word or phrase.	Yes
+02e38cd5a3850f60.jpg	Is this a photo of Isbister Chambered Cairn?\nAnswer the question using a single word or phrase.	No
+02e3e418198427e7.jpg	Is this an image of Goldener Reiter?\nAnswer the question using a single word or phrase.	Yes
+02e3e418198427e7.jpg	Is this an image of Palacio de la Mosquera?\nAnswer the question using a single word or phrase.	No
+030d9a26b7d5755e.jpg	Is this a photo of Medvedgrad?\nAnswer the question using a single word or phrase.	Yes
+030d9a26b7d5755e.jpg	Is this a photo of Tammisto?\nAnswer the question using a single word or phrase.	No
+0317376043fb00eb.jpg	Is this a photo of Butler's Wharf?\nAnswer the question using a single word or phrase.	Yes
+0317376043fb00eb.jpg	Is this a photo of Church of Saints Philip and James (Lelekovice)?\nAnswer the question using a single word or phrase.	No
+03280db41fd4e4f5.jpg	Is this a picture of Oxford Street?\nAnswer the question using a single word or phrase.	Yes
+03280db41fd4e4f5.jpg	Is this a picture of Blake Fell?\nAnswer the question using a single word or phrase.	No
+034733eb61d663cd.jpg	Is this a picture of Colonna dell'Immacolata (Rome)?\nAnswer the question using a single word or phrase.	Yes
+034733eb61d663cd.jpg	Is this a picture of Brookmill Park?\nAnswer the question using a single word or phrase.	No
+034d066523bb20d1.jpg	Is this a photo of Ibrahim-al-Ibrahim Mosque?\nAnswer the question using a single word or phrase.	Yes
+034d066523bb20d1.jpg	Is this a photo of Atami Castle?\nAnswer the question using a single word or phrase.	No
+036b60d84c6ebc63.jpg	Is this a photo of Frederik V statue in Amalienborg Palace?\nAnswer the question using a single word or phrase.	Yes
+036b60d84c6ebc63.jpg	Is this a photo of Karl-Bittel-Park?\nAnswer the question using a single word or phrase.	No
+03729394d18f7e9a.jpg	Is this an image of Sapporo Clock Tower?\nAnswer the question using a single word or phrase.	Yes
+03729394d18f7e9a.jpg	Is this an image of Saint Nikolaus Church (Beuster)?\nAnswer the question using a single word or phrase.	No
+0384fd0664c0ca62.jpg	Is this an image of St. Martin (Sontheim)?\nAnswer the question using a single word or phrase.	Yes
+0384fd0664c0ca62.jpg	Is this an image of Hot Creek (Mono County, California)?\nAnswer the question using a single word or phrase.	No
+038bdff81be029a6.jpg	Is this an image of Fosso Reale (Livorno)?\nAnswer the question using a single word or phrase.	Yes
+038bdff81be029a6.jpg	Is this an image of Farlington Marshes?\nAnswer the question using a single word or phrase.	No
+039bbdf71cd17b3f.jpg	Is this a picture of Qiantang River Bridge?\nAnswer the question using a single word or phrase.	Yes
+039bbdf71cd17b3f.jpg	Is this a picture of Casa Museo Boschi Di Stefano (Milan)?\nAnswer the question using a single word or phrase.	No
+03aa5dd2e3aab548.jpg	Is this a photo of Central Police Station?\nAnswer the question using a single word or phrase.	Yes
+03aa5dd2e3aab548.jpg	Is this a photo of Kontai-ji?\nAnswer the question using a single word or phrase.	No
+03c4b1901e4195f4.jpg	Is this an image of St. Johanniskirche Eppendorf?\nAnswer the question using a single word or phrase.	Yes
+03c4b1901e4195f4.jpg	Is this an image of Maidenhead Bridge?\nAnswer the question using a single word or phrase.	No
+03c8b2c1306c0038.jpg	Is this an image of Ermita de Sant Joan (Montserrat)?\nAnswer the question using a single word or phrase.	Yes
+03c8b2c1306c0038.jpg	Is this an image of Hamilton Grange National Memorial?\nAnswer the question using a single word or phrase.	No
+03d5e3bfc958be38.jpg	Is this an image of Pietrarsa railway museum?\nAnswer the question using a single word or phrase.	Yes
+03d5e3bfc958be38.jpg	Is this an image of Washita Battlefield National Historic Site?\nAnswer the question using a single word or phrase.	No
+03dc7df1f1df7b8f.jpg	Is this a picture of Yevhen Paton Bridge?\nAnswer the question using a single word or phrase.	Yes
+03dc7df1f1df7b8f.jpg	Is this a picture of Minoan Villa of Makrygialos?\nAnswer the question using a single word or phrase.	No
+03f65f52c0077b6c.jpg	Is this a photo of Reading Lighthouse?\nAnswer the question using a single word or phrase.	Yes
+03f65f52c0077b6c.jpg	Is this a photo of St Nicholas Kirk, Aberdeen?\nAnswer the question using a single word or phrase.	No
+03f873280d814ae7.jpg	Is this a photo of Clarence Dock (Leeds)?\nAnswer the question using a single word or phrase.	Yes
+03f873280d814ae7.jpg	Is this a photo of Madonna delle Grazie (Roccastrada)?\nAnswer the question using a single word or phrase.	No
+03f8abf9f8473a6f.jpg	Is this a picture of Parque nacional del Teide?\nAnswer the question using a single word or phrase.	Yes
+03f8abf9f8473a6f.jpg	Is this a picture of Church of Saint Mary the Virgin, Skiemonys?\nAnswer the question using a single word or phrase.	No
+03fb778d388ad9a0.jpg	Is this an image of Mercado Central de Santiago?\nAnswer the question using a single word or phrase.	Yes
+03fb778d388ad9a0.jpg	Is this an image of Castelo de Alegrete?\nAnswer the question using a single word or phrase.	No
+041da60e053c5906.jpg	Is this a picture of Schloss Weesenstein?\nAnswer the question using a single word or phrase.	Yes
+041da60e053c5906.jpg	Is this a picture of Mas Cabrafiga?\nAnswer the question using a single word or phrase.	No
+042ca5291cefe0b2.jpg	Is this a picture of Pfarrkirche hl. Augustinus, Perchtoldsdorf?\nAnswer the question using a single word or phrase.	Yes
+042ca5291cefe0b2.jpg	Is this a picture of Mark Twain Riverboat?\nAnswer the question using a single word or phrase.	No
+0443da4f4fcdea52.jpg	Is this an image of Port of Funchal?\nAnswer the question using a single word or phrase.	Yes
+0443da4f4fcdea52.jpg	Is this an image of Rauscherpark?\nAnswer the question using a single word or phrase.	No
+04531b37dfe5c991.jpg	Is this a picture of Roebling Suspension Bridge?\nAnswer the question using a single word or phrase.	Yes
+04531b37dfe5c991.jpg	Is this a picture of St. James Episcopal Church (Wilmington, North Carolina)?\nAnswer the question using a single word or phrase.	No
+04534ba775aa38ad.jpg	Is this an image of Cork City Gaol?\nAnswer the question using a single word or phrase.	Yes
+04534ba775aa38ad.jpg	Is this an image of Taramati Baradari?\nAnswer the question using a single word or phrase.	No
+04590c1648dd25a0.jpg	Is this an image of Zhejiang Sci-Tech University?\nAnswer the question using a single word or phrase.	Yes
+04590c1648dd25a0.jpg	Is this an image of Khalti Lake?\nAnswer the question using a single word or phrase.	No
+045b65ea196dac3f.jpg	Is this a photo of Republican architecture in Manizales?\nAnswer the question using a single word or phrase.	Yes
+045b65ea196dac3f.jpg	Is this a photo of Kayauchi-banta Cliff?\nAnswer the question using a single word or phrase.	No
+045ec5631638d290.jpg	Is this a picture of Baldachin of Saint Peter's Basilica?\nAnswer the question using a single word or phrase.	Yes
+045ec5631638d290.jpg	Is this a picture of Jean Baptiste Point Du Sable Homesite?\nAnswer the question using a single word or phrase.	No
+04a5226570dce6c3.jpg	Is this a picture of Church of the Assumption of the Virgin Mary in Chrudim?\nAnswer the question using a single word or phrase.	Yes
+04a5226570dce6c3.jpg	Is this a picture of Queen Elizabeth Country Park?\nAnswer the question using a single word or phrase.	No
+04b6c84ce89461ec.jpg	Is this an image of Tomb of Xerxes I?\nAnswer the question using a single word or phrase.	Yes
+04b6c84ce89461ec.jpg	Is this an image of Park HaMesila?\nAnswer the question using a single word or phrase.	No
+04d67117549e07a8.jpg	Is this a photo of Laguna de Salinas?\nAnswer the question using a single word or phrase.	Yes
+04d67117549e07a8.jpg	Is this a photo of Raspyatsky Monastery (Serpukhov)?\nAnswer the question using a single word or phrase.	No
+04ebe2885134597f.jpg	Is this a picture of The South Africa (Delville Wood) National Memorial?\nAnswer the question using a single word or phrase.	Yes
+04ebe2885134597f.jpg	Is this a picture of Imogiri?\nAnswer the question using a single word or phrase.	No
+050464e4ebc0b36d.jpg	Is this an image of Tai Wong Ye Temple, Wong Chuk Hang?\nAnswer the question using a single word or phrase.	Yes
+050464e4ebc0b36d.jpg	Is this an image of Hierve el Agua?\nAnswer the question using a single word or phrase.	No
+05095dd2b6715fc3.jpg	Is this an image of Sampsonievsky Cathedral?\nAnswer the question using a single word or phrase.	Yes
+05095dd2b6715fc3.jpg	Is this an image of I. and E. Greenwald Steam Engine No. 1058?\nAnswer the question using a single word or phrase.	No
+05685b1070b828f5.jpg	Is this a photo of Wurstelprater?\nAnswer the question using a single word or phrase.	Yes
+05685b1070b828f5.jpg	Is this a photo of Nanmyaebonthar Sannandawya Sandamuni Pagoda?\nAnswer the question using a single word or phrase.	No
+05b01b255cec2bfb.jpg	Is this a photo of Puthoorppilly Sree Krishnaswamy Temple?\nAnswer the question using a single word or phrase.	Yes
+05b01b255cec2bfb.jpg	Is this a photo of Villa Reale (Marlia)?\nAnswer the question using a single word or phrase.	No
+05bcf05b4460d2c3.jpg	Is this an image of Museo archeologico nazionale dell'Umbria?\nAnswer the question using a single word or phrase.	Yes
+05bcf05b4460d2c3.jpg	Is this an image of Mode Gakuen Cocoon Tower?\nAnswer the question using a single word or phrase.	No
+05c3aa404351f407.jpg	Is this an image of Pasaje Gutierrez (Valladolid)?\nAnswer the question using a single word or phrase.	Yes
+05c3aa404351f407.jpg	Is this an image of Pieve di Santa Maria a Carli?\nAnswer the question using a single word or phrase.	No
+05d56e249af839e7.jpg	Is this a photo of Serbian Orthodox Cathedral in Sarajevo?\nAnswer the question using a single word or phrase.	Yes
+05d56e249af839e7.jpg	Is this a photo of Seewaldsee (Sankt Koloman)?\nAnswer the question using a single word or phrase.	No
+06134984e2aa9bcc.jpg	Is this a picture of Grote Kerk (Groede)?\nAnswer the question using a single word or phrase.	Yes
+06134984e2aa9bcc.jpg	Is this a picture of Goldeck?\nAnswer the question using a single word or phrase.	No
+0613d7e8f292ee15.jpg	Is this a photo of Museo Archeologico G. Rambotti?\nAnswer the question using a single word or phrase.	Yes
+0613d7e8f292ee15.jpg	Is this a photo of Sanrei?\nAnswer the question using a single word or phrase.	No
+062298815e9197e7.jpg	Is this a photo of Liuyang Confucius Temple?\nAnswer the question using a single word or phrase.	Yes
+062298815e9197e7.jpg	Is this a photo of Astley Castle?\nAnswer the question using a single word or phrase.	No
+06483ba2bff074bc.jpg	Is this an image of Museo Universitario del Chopo?\nAnswer the question using a single word or phrase.	Yes
+06483ba2bff074bc.jpg	Is this an image of Cedar Park, Seattle, Washington?\nAnswer the question using a single word or phrase.	No
+06740b93ad1f6c02.jpg	Is this a picture of Borisoglebsky Monastery (Borisoglebsky)?\nAnswer the question using a single word or phrase.	Yes
+06740b93ad1f6c02.jpg	Is this a picture of Aletsch Arena?\nAnswer the question using a single word or phrase.	No
+067ea27ec08c9354.jpg	Is this a picture of Schlosskirche St. Aegidien (Bernburg)?\nAnswer the question using a single word or phrase.	Yes
+067ea27ec08c9354.jpg	Is this a picture of The Haining?\nAnswer the question using a single word or phrase.	No
+06a85d0b5d70881d.jpg	Is this an image of Silwan?\nAnswer the question using a single word or phrase.	Yes
+06a85d0b5d70881d.jpg	Is this an image of Jagdschloss Platte?\nAnswer the question using a single word or phrase.	No
+06ab45292ecd8bf7.jpg	Is this a picture of Maribor Regional Museum?\nAnswer the question using a single word or phrase.	Yes
+06ab45292ecd8bf7.jpg	Is this a picture of Myres Castle?\nAnswer the question using a single word or phrase.	No
+06b6531dab42ccab.jpg	Is this a picture of Roland (Riga)?\nAnswer the question using a single word or phrase.	Yes
+06b6531dab42ccab.jpg	Is this a picture of Wudangshan Shangdi Temple?\nAnswer the question using a single word or phrase.	No
+06d039ff97afef04.jpg	Is this a picture of Arch of Galerius (Thessaloniki)?\nAnswer the question using a single word or phrase.	Yes
+06d039ff97afef04.jpg	Is this a picture of Catholic Church of Wanchin?\nAnswer the question using a single word or phrase.	No
+06e453b06a3e4054.jpg	Is this an image of Pendeen Lighthouse?\nAnswer the question using a single word or phrase.	Yes
+06e453b06a3e4054.jpg	Is this an image of Silberbach (Heubach)?\nAnswer the question using a single word or phrase.	No
+06e927f784642ce4.jpg	Is this a picture of Museo Delta Antico?\nAnswer the question using a single word or phrase.	Yes
+06e927f784642ce4.jpg	Is this a picture of OSTEC Exhibition Hall?\nAnswer the question using a single word or phrase.	No
+070c8d6326a87397.jpg	Is this an image of Lanxmeerpoort?\nAnswer the question using a single word or phrase.	Yes
+070c8d6326a87397.jpg	Is this an image of Tramway du Cap-Ferret?\nAnswer the question using a single word or phrase.	No
+0713451824a443d4.jpg	Is this a picture of Castillo de Sax?\nAnswer the question using a single word or phrase.	Yes
+0713451824a443d4.jpg	Is this a picture of Roman Catholic Diocese of Orlando?\nAnswer the question using a single word or phrase.	No
+0743e58605497887.jpg	Is this an image of Capitoline temple (Brescia)?\nAnswer the question using a single word or phrase.	Yes
+0743e58605497887.jpg	Is this an image of Burg Horn?\nAnswer the question using a single word or phrase.	No
+075264ec41057049.jpg	Is this a picture of Imatrankoski?\nAnswer the question using a single word or phrase.	Yes
+075264ec41057049.jpg	Is this a picture of Jarlsberg travbane?\nAnswer the question using a single word or phrase.	No
+07551cf96af77299.jpg	Is this a photo of Friedhof Wilmersdorf?\nAnswer the question using a single word or phrase.	Yes
+07551cf96af77299.jpg	Is this a photo of Partisan cemetery in Mostar?\nAnswer the question using a single word or phrase.	No
+075f8d86303a020e.jpg	Is this a photo of Church of the Nativity (Bethlehem)?\nAnswer the question using a single word or phrase.	Yes
+075f8d86303a020e.jpg	Is this a photo of Pennsylvania Railroad Office Building?\nAnswer the question using a single word or phrase.	No
+07ac52cf4620519f.jpg	Is this a photo of San Pietro (Reggio Emilia)?\nAnswer the question using a single word or phrase.	Yes
+07ac52cf4620519f.jpg	Is this a photo of Plaza de toros de La Condomina?\nAnswer the question using a single word or phrase.	No
+07b04584e67cb39d.jpg	Is this a picture of Smithfield, Dublin?\nAnswer the question using a single word or phrase.	Yes
+07b04584e67cb39d.jpg	Is this a picture of Novyi Svit Sanctuary?\nAnswer the question using a single word or phrase.	No
+07ed43dd266b669b.jpg	Is this a photo of Rocky Mountain National Park?\nAnswer the question using a single word or phrase.	Yes
+07ed43dd266b669b.jpg	Is this a photo of Col-des-Roches?\nAnswer the question using a single word or phrase.	No
+083dd5a3ba3d96dc.jpg	Is this a picture of Teddington Cemetery?\nAnswer the question using a single word or phrase.	Yes
+083dd5a3ba3d96dc.jpg	Is this a picture of Khutir Nadia?\nAnswer the question using a single word or phrase.	No
+08442f24f3c25565.jpg	Is this a photo of Abdijkerk Loosduinen?\nAnswer the question using a single word or phrase.	Yes
+08442f24f3c25565.jpg	Is this a photo of Rinsey Head?\nAnswer the question using a single word or phrase.	No
+08a0d2fd3fe6dc95.jpg	Is this a picture of Dreifaltigkeitskirche (Ulm)?\nAnswer the question using a single word or phrase.	Yes
+08a0d2fd3fe6dc95.jpg	Is this a picture of Wat Pa Mamuang?\nAnswer the question using a single word or phrase.	No
+08c43cd8f2be6709.jpg	Is this a picture of Parchi di Nervi?\nAnswer the question using a single word or phrase.	Yes
+08c43cd8f2be6709.jpg	Is this a picture of Altlayer Schweiz?\nAnswer the question using a single word or phrase.	No
+09232aeaf46dec64.jpg	Is this a picture of Canadian Museum of Nature?\nAnswer the question using a single word or phrase.	Yes
+09232aeaf46dec64.jpg	Is this a picture of Gwangtonggwan?\nAnswer the question using a single word or phrase.	No
+092d0859ff6424de.jpg	Is this a photo of Kasteel Lunenburg?\nAnswer the question using a single word or phrase.	Yes
+092d0859ff6424de.jpg	Is this a photo of Thomas Paine Cottage?\nAnswer the question using a single word or phrase.	No
+092e075e8e44c228.jpg	Is this a picture of ChaoTianGong?\nAnswer the question using a single word or phrase.	Yes
+092e075e8e44c228.jpg	Is this a picture of Pygmalion Theater Wien?\nAnswer the question using a single word or phrase.	No
+093ad5564a004653.jpg	Is this a picture of Crescent Lake (Dunhuang)?\nAnswer the question using a single word or phrase.	Yes
+093ad5564a004653.jpg	Is this a picture of Kirjurinluoto Arena?\nAnswer the question using a single word or phrase.	No
+0962855b67159733.jpg	Is this a photo of Monastery of Monsalud?\nAnswer the question using a single word or phrase.	Yes
+0962855b67159733.jpg	Is this a photo of ToonSeum?\nAnswer the question using a single word or phrase.	No
+09a51d517f1a72d5.jpg	Is this a picture of Ford's Theatre?\nAnswer the question using a single word or phrase.	Yes
+09a51d517f1a72d5.jpg	Is this a picture of Burg Hachen?\nAnswer the question using a single word or phrase.	No
+09ae0628a75e4fcc.jpg	Is this a picture of Onze-Lieve-Vrouw Hemelvaartkerk (Zottegem)?\nAnswer the question using a single word or phrase.	Yes
+09ae0628a75e4fcc.jpg	Is this a picture of Salvation Army in Canada?\nAnswer the question using a single word or phrase.	No
+09b7acf87c8046ec.jpg	Is this an image of Church of the Epiphany (Yaroslavl)?\nAnswer the question using a single word or phrase.	Yes
+09b7acf87c8046ec.jpg	Is this an image of Szlenkier Palace?\nAnswer the question using a single word or phrase.	No
+09b94a2f304a540c.jpg	Is this a photo of Abbaye Notre-Dame du Val?\nAnswer the question using a single word or phrase.	Yes
+09b94a2f304a540c.jpg	Is this a photo of Hotarumachi, Osaka?\nAnswer the question using a single word or phrase.	No
+09ce89cbf237da03.jpg	Is this a picture of Church of Saint Mary Magdalene (Brno)?\nAnswer the question using a single word or phrase.	Yes
+09ce89cbf237da03.jpg	Is this a picture of Wain Wath Force?\nAnswer the question using a single word or phrase.	No
+0a3035bfca2ab920.jpg	Is this an image of Ortigia?\nAnswer the question using a single word or phrase.	Yes
+0a3035bfca2ab920.jpg	Is this an image of Montmayeur castle?\nAnswer the question using a single word or phrase.	No
+0ab2ed007db301d5.jpg	Is this a picture of Highgate Cemetery?\nAnswer the question using a single word or phrase.	Yes
+0ab2ed007db301d5.jpg	Is this a picture of Isola Maggiore?\nAnswer the question using a single word or phrase.	No
+0acc12d1261d99ca.jpg	Is this an image of Wat Chedi Si Hong?\nAnswer the question using a single word or phrase.	Yes
+0acc12d1261d99ca.jpg	Is this an image of Leschi Park?\nAnswer the question using a single word or phrase.	No
+0adb088e24d88123.jpg	Is this a picture of Iglesia de Santo Domingo (La Serena)?\nAnswer the question using a single word or phrase.	Yes
+0adb088e24d88123.jpg	Is this a picture of Canelles de Baix (la Vall de Bianya)?\nAnswer the question using a single word or phrase.	No
+0ae3355e0a54db21.jpg	Is this a photo of Grimspound?\nAnswer the question using a single word or phrase.	Yes
+0ae3355e0a54db21.jpg	Is this a photo of Lough Owel?\nAnswer the question using a single word or phrase.	No
+0b4240b5ef69362e.jpg	Is this a photo of Saint Anne church in Nowa Ruda?\nAnswer the question using a single word or phrase.	Yes
+0b4240b5ef69362e.jpg	Is this a photo of Bray Wick?\nAnswer the question using a single word or phrase.	No
+0b64944086932c90.jpg	Is this a picture of Alte Pfarrkirche St. Martin (Moosach)?\nAnswer the question using a single word or phrase.	Yes
+0b64944086932c90.jpg	Is this a picture of Maya Devi Temple, Lumbini?\nAnswer the question using a single word or phrase.	No
+0b8fa4152f1bc3ed.jpg	Is this a picture of Lac du Salagou?\nAnswer the question using a single word or phrase.	Yes
+0b8fa4152f1bc3ed.jpg	Is this a picture of Holsljunga kyrka?\nAnswer the question using a single word or phrase.	No
+0ba6fa7ade050d49.jpg	Is this a photo of Churches in Zemaiciu Kalvarija?\nAnswer the question using a single word or phrase.	Yes
+0ba6fa7ade050d49.jpg	Is this a photo of Waiola Church?\nAnswer the question using a single word or phrase.	No
+0bd72080836eac97.jpg	Is this a picture of Castelo de Sesimbra?\nAnswer the question using a single word or phrase.	Yes
+0bd72080836eac97.jpg	Is this a picture of Gouffre Berger?\nAnswer the question using a single word or phrase.	No
+0bdd954254310e73.jpg	Is this a photo of Melrose House?\nAnswer the question using a single word or phrase.	Yes
+0bdd954254310e73.jpg	Is this a photo of Former water tower (Tsubame, Niigata)?\nAnswer the question using a single word or phrase.	No
+0c06fe97f38f6f88.jpg	Is this a photo of Belvoir Castle?\nAnswer the question using a single word or phrase.	Yes
+0c06fe97f38f6f88.jpg	Is this a photo of Su'ao Cold Spring?\nAnswer the question using a single word or phrase.	No
+0c6b0c5d2a401285.jpg	Is this a photo of Pelham Crescent?\nAnswer the question using a single word or phrase.	Yes
+0c6b0c5d2a401285.jpg	Is this a photo of Manila Ocean Park?\nAnswer the question using a single word or phrase.	No
+0cc5201e37961a1d.jpg	Is this a photo of Adare Manor?\nAnswer the question using a single word or phrase.	Yes
+0cc5201e37961a1d.jpg	Is this a photo of Leopoldspark?\nAnswer the question using a single word or phrase.	No
+0cd8fda9668b3ed2.jpg	Is this a picture of Church of the Holy Mandylion (Klyazma)?\nAnswer the question using a single word or phrase.	Yes
+0cd8fda9668b3ed2.jpg	Is this a picture of Kalayar Kovil?\nAnswer the question using a single word or phrase.	No
+0cf2e28266a0f1a1.jpg	Is this an image of Piazza Bra (Verona)?\nAnswer the question using a single word or phrase.	Yes
+0cf2e28266a0f1a1.jpg	Is this an image of Keeneland?\nAnswer the question using a single word or phrase.	No
+0cf48b827c9c99de.jpg	Is this a photo of Beatus Rhenanus Bridge?\nAnswer the question using a single word or phrase.	Yes
+0cf48b827c9c99de.jpg	Is this a photo of Ossian Hall?\nAnswer the question using a single word or phrase.	No
+0d23f6c345b68c05.jpg	Is this an image of Monte Olivia?\nAnswer the question using a single word or phrase.	Yes
+0d23f6c345b68c05.jpg	Is this an image of Crackstate?\nAnswer the question using a single word or phrase.	No
+0d70bceb2557d1f4.jpg	Is this an image of Spaso-Preobrazhensky Cathedral (Pereslavl-Zalessky)?\nAnswer the question using a single word or phrase.	Yes
+0d70bceb2557d1f4.jpg	Is this an image of Manta Rota?\nAnswer the question using a single word or phrase.	No
+0d7716f4aed0c9fa.jpg	Is this a photo of Willemsbrug in Rotterdam?\nAnswer the question using a single word or phrase.	Yes
+0d7716f4aed0c9fa.jpg	Is this a photo of Grumentum, Parco archeologico?\nAnswer the question using a single word or phrase.	No
+0d89a8a5e8c269e4.jpg	Is this an image of Burg Normannstein?\nAnswer the question using a single word or phrase.	Yes
+0d89a8a5e8c269e4.jpg	Is this an image of Cape Borda Lighthouse?\nAnswer the question using a single word or phrase.	No
+0e04b4f7f9801ea9.jpg	Is this a picture of Vase sculpture, Bremen?\nAnswer the question using a single word or phrase.	Yes
+0e04b4f7f9801ea9.jpg	Is this a picture of Mount Wilhelm?\nAnswer the question using a single word or phrase.	No
+0e0511c6e33636ca.jpg	Is this a picture of Victoria Stadium?\nAnswer the question using a single word or phrase.	Yes
+0e0511c6e33636ca.jpg	Is this a picture of Villa Belvedere (San Giuliano Terme)?\nAnswer the question using a single word or phrase.	No
+0e553d5d99e21c32.jpg	Is this a picture of Mustafa Pasha Bridge?\nAnswer the question using a single word or phrase.	Yes
+0e553d5d99e21c32.jpg	Is this a picture of Scrattons Eco Park?\nAnswer the question using a single word or phrase.	No
+0eb857c972ddc4c8.jpg	Is this an image of Nabq Protected Area?\nAnswer the question using a single word or phrase.	Yes
+0eb857c972ddc4c8.jpg	Is this an image of Maletsunyane Falls?\nAnswer the question using a single word or phrase.	No
+0f92862c0366ab60.jpg	Is this a photo of Cotehele?\nAnswer the question using a single word or phrase.	Yes
+0f92862c0366ab60.jpg	Is this a photo of Mozirje Grove?\nAnswer the question using a single word or phrase.	No
+0fc48f210ea7d363.jpg	Is this a photo of Schauenburg (Oberkirch)?\nAnswer the question using a single word or phrase.	Yes
+0fc48f210ea7d363.jpg	Is this a photo of Dartford Library?\nAnswer the question using a single word or phrase.	No
+100e5402cfb2dfcf.jpg	Is this a picture of Nanzenji?\nAnswer the question using a single word or phrase.	Yes
+100e5402cfb2dfcf.jpg	Is this a picture of Bagakain Lake?\nAnswer the question using a single word or phrase.	No
+101786bd2ec5800e.jpg	Is this a picture of Church of the Merciful Saviour in Kuskovo (Moscow)?\nAnswer the question using a single word or phrase.	Yes
+101786bd2ec5800e.jpg	Is this a picture of Central Board of Secondary Education?\nAnswer the question using a single word or phrase.	No
+1023b7ec812bb4c6.jpg	Is this a photo of St. Joseph's Cathedral, Dunedin?\nAnswer the question using a single word or phrase.	Yes
+1023b7ec812bb4c6.jpg	Is this a photo of Fagervik Church?\nAnswer the question using a single word or phrase.	No
+1053f4cebfceabd8.jpg	Is this an image of Woolwich foot tunnel?\nAnswer the question using a single word or phrase.	Yes
+1053f4cebfceabd8.jpg	Is this an image of Kirchenbibliothek St. Marien Barth?\nAnswer the question using a single word or phrase.	No
+10a944858a4283e0.jpg	Is this a picture of Harding Tomb?\nAnswer the question using a single word or phrase.	Yes
+10a944858a4283e0.jpg	Is this a picture of Kartause Ittingen?\nAnswer the question using a single word or phrase.	No
+10b2b8741f283a3c.jpg	Is this a photo of De Bataaf, Winterswijk?\nAnswer the question using a single word or phrase.	Yes
+10b2b8741f283a3c.jpg	Is this a photo of Porte Guillaume-Lion?\nAnswer the question using a single word or phrase.	No
+11b6bb2c35f4ee22.jpg	Is this an image of Ku-ring-gai Chase National Park?\nAnswer the question using a single word or phrase.	Yes
+11b6bb2c35f4ee22.jpg	Is this an image of Saint Mark's Coptic Orthodox Cathedral, Cairo?\nAnswer the question using a single word or phrase.	No
+127be7d34a21e5ed.jpg	Is this a picture of Beachy Head?\nAnswer the question using a single word or phrase.	Yes
+127be7d34a21e5ed.jpg	Is this a picture of Jindo Bridge?\nAnswer the question using a single word or phrase.	No
+130846b4f29fe4ba.jpg	Is this a photo of Duomo (Viterbo)?\nAnswer the question using a single word or phrase.	Yes
+130846b4f29fe4ba.jpg	Is this a photo of Raffles Praslin?\nAnswer the question using a single word or phrase.	No
+13a563a1a8ef38ae.jpg	Is this a photo of Torre del Rellotge d'Olesa de Montserrat?\nAnswer the question using a single word or phrase.	Yes
+13a563a1a8ef38ae.jpg	Is this a photo of Salzburg Museum?\nAnswer the question using a single word or phrase.	No
+14d3aba340d2fba9.jpg	Is this an image of Regard Saint-Martin?\nAnswer the question using a single word or phrase.	Yes
+14d3aba340d2fba9.jpg	Is this an image of Mount Donna Buang?\nAnswer the question using a single word or phrase.	No
+15b75eb6fca4aeb6.jpg	Is this a photo of City Duma building (Saint Petersburg)?\nAnswer the question using a single word or phrase.	Yes
+15b75eb6fca4aeb6.jpg	Is this a photo of Komadome-Hachiman-jinja?\nAnswer the question using a single word or phrase.	No
+15ec5d2c0898a56e.jpg	Is this a photo of Kids Marina Rotterdam?\nAnswer the question using a single word or phrase.	Yes
+15ec5d2c0898a56e.jpg	Is this a photo of Kirkwood Observatory?\nAnswer the question using a single word or phrase.	No
+15f326a030396dba.jpg	Is this a picture of Macquarie Centre?\nAnswer the question using a single word or phrase.	Yes
+15f326a030396dba.jpg	Is this a picture of California Historical Landmarks in San Mateo County, California?\nAnswer the question using a single word or phrase.	No
+162a77504f4e686e.jpg	Is this an image of Wieliczka Castle?\nAnswer the question using a single word or phrase.	Yes
+162a77504f4e686e.jpg	Is this an image of Naval Station Guantanamo Bay?\nAnswer the question using a single word or phrase.	No
+16b76bdd7eaaef1b.jpg	Is this a picture of Evangelische Kirche Weinfelden?\nAnswer the question using a single word or phrase.	Yes
+16b76bdd7eaaef1b.jpg	Is this a picture of Gorg Blau?\nAnswer the question using a single word or phrase.	No
+16d55614b78b6b8b.jpg	Is this an image of Church of the Assumption in Bishche?\nAnswer the question using a single word or phrase.	Yes
+16d55614b78b6b8b.jpg	Is this an image of Water of Girvan?\nAnswer the question using a single word or phrase.	No
+17e0cd732e35d4aa.jpg	Is this a photo of Millennium Tower (San Francisco, California)?\nAnswer the question using a single word or phrase.	Yes
+17e0cd732e35d4aa.jpg	Is this a photo of New Orleans Botanical Garden?\nAnswer the question using a single word or phrase.	No
+18608ca3b785abf8.jpg	Is this a picture of Solvognen?\nAnswer the question using a single word or phrase.	Yes
+18608ca3b785abf8.jpg	Is this a picture of Schenley Farms National Historic District?\nAnswer the question using a single word or phrase.	No
+197e440391d309f8.jpg	Is this a picture of Skansin?\nAnswer the question using a single word or phrase.	Yes
+197e440391d309f8.jpg	Is this a picture of Bardstown Historic District?\nAnswer the question using a single word or phrase.	No
+19fe04377265454e.jpg	Is this a picture of Alexander Nevsky Church, Belgrade?\nAnswer the question using a single word or phrase.	Yes
+19fe04377265454e.jpg	Is this a picture of Seppiko-Mineyama Hyogo Prefectural Nature Park?\nAnswer the question using a single word or phrase.	No
+1a32959819038291.jpg	Is this an image of Id Kah Mosque?\nAnswer the question using a single word or phrase.	Yes
+1a32959819038291.jpg	Is this an image of Katharinenkirche (Zwickau)?\nAnswer the question using a single word or phrase.	No
+1ac0e3c493073995.jpg	Is this an image of Church of Saint John the Baptist (Jihlava)?\nAnswer the question using a single word or phrase.	Yes
+1ac0e3c493073995.jpg	Is this an image of Silte kyrka?\nAnswer the question using a single word or phrase.	No
+1d4be36153741972.jpg	Is this a picture of Marie Guyart Building?\nAnswer the question using a single word or phrase.	Yes
+1d4be36153741972.jpg	Is this a picture of Motol?\nAnswer the question using a single word or phrase.	No
+1f233b807b660d25.jpg	Is this a photo of Aussichtsturm Pyramidenkogel?\nAnswer the question using a single word or phrase.	Yes
+1f233b807b660d25.jpg	Is this a photo of Vvedenskoe cemetery?\nAnswer the question using a single word or phrase.	No
+27a4267b9ea26cd0.jpg	Is this an image of Oude Salviuskerk (Limbricht)?\nAnswer the question using a single word or phrase.	Yes
+27a4267b9ea26cd0.jpg	Is this an image of Festung Heldrungen?\nAnswer the question using a single word or phrase.	No
+2a895eb889d6fd99.jpg	Is this an image of Beijing Guozijian?\nAnswer the question using a single word or phrase.	Yes
+2a895eb889d6fd99.jpg	Is this an image of Klinikkirche (Pfafferode)?\nAnswer the question using a single word or phrase.	No
+2f25654bcb445452.jpg	Is this a photo of Rinku Gate Tower Building?\nAnswer the question using a single word or phrase.	Yes
+2f25654bcb445452.jpg	Is this a photo of Bigorski Monastery?\nAnswer the question using a single word or phrase.	No
+3c89eb4043bcefac.jpg	Is this a picture of Begijnhofkerk (Mechelen)?\nAnswer the question using a single word or phrase.	Yes
+3c89eb4043bcefac.jpg	Is this a picture of Panther Hollow Lake?\nAnswer the question using a single word or phrase.	No
