@@ -8,6 +8,7 @@
 #### 2. Evaluation
 
 **MME**
+
 To evaluate on [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) benchmark, run the following script.
 
 ```
