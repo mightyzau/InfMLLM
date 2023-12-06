@@ -4,6 +4,12 @@
 <img src="docs/framework.png" alt="" width="100%"/>
 </p>
 
+
+## Release
+[12/06] Make the models and evaluation code available; the manuscript v2 will be posted on ArXiv in two days.
+[11/06] Upload the initial version of the manuscript to arXiv.
+
+
 ## Models
 Both the multitask and instruction tuning models are now available on Hugging Face!
 
@@ -27,7 +33,7 @@ We conducted evaluations of the **InfMLLM-7B** multitask model across five VQA (
 Trying **InfMLLM-7B-Chat** is straightforward. We've provided a [demo script](demo.py) to run on the following example image.
 
 <p align="center">
-<img src="docs/example_1.jpeg" alt="" width="70%"/>
+<img src="docs/example_1.jpeg" alt="" width="60%"/>
 </p>
 
 ```
@@ -37,7 +43,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py
 The conversation generated is shown below.
 
 <p align="center">
-<img src="docs/demo.png" alt="" width="90%"/>
+<img src="docs/demo.png" alt="" width="80%"/>
 </p>
 
 
