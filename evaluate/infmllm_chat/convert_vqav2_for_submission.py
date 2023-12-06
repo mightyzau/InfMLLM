@@ -2,7 +2,7 @@ import os
 import argparse
 import json
 
-from train_with_transformers.eval.m4c_evaluator import EvalAIAnswerProcessor
+from evaluate.infmllm_chat.m4c_evaluator import EvalAIAnswerProcessor
 
 
 def parse_args():

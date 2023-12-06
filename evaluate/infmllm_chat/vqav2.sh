@@ -15,7 +15,7 @@ for IDX in $(seq 0 $((CHUNKS-1))); do
         --model-path ${model_path} \
         --question-file datasets/VQAv2/llava_1_5_vqav2_testdev.jsonl \
         --image-folder datasets/VQAv2/ \
-        --answers-file ${model_path}/eval/vqav2/answers/${CHUNKS}_${IDX}_num_beams-${num_beams}.jsonl \
+        --answers-file ${model_path}/eval/vqav2/answers/${CHUNKS}_${IDX}.jsonl \
         --num-chunks $CHUNKS \
         --chunk-idx $IDX \
         --temperature 0 \
@@ -24,19 +24,19 @@ done
 wait
 
 
-output_file=${model_path}/eval/vqav2/answers/merge_num_beams-${num_beams}.jsonl
+output_file=${model_path}/eval/vqav2/answers/merge.jsonl
 # Clear out the output file if it exists.
 > "$output_file"
 # Loop through the indices and concatenate each file.
 for IDX in $(seq 0 $((CHUNKS-1))); do
-    cat ${model_path}/eval/vqav2/answers/${CHUNKS}_${IDX}_num_beams-${num_beams}.jsonl >> "$output_file"
+    cat ${model_path}/eval/vqav2/answers/${CHUNKS}_${IDX}.jsonl >> "$output_file"
 done
 
 
 python evaluate/infmllm_chat/convert_vqav2_for_submission.py \
     --src ${output_file} \
     --test datasets/VQAv2/llava_1_5_vqav2_testdev.jsonl \
-    --dst ${model_path}/eval/vqav2/answers/upload_num_beams-${num_beams}.json
+    --dst ${model_path}/eval/vqav2/answers/upload.json
 
 
 echo "model_path: ${model_path}"
