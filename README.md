@@ -1,27 +1,62 @@
-## InfMLLM: A Unified Model for Visual-Language Tasks
+## [InfMLLM: A Unified Model for Visual-Language Tasks](https://arxiv.org/abs/2311.06791)
+
+<p align="center">
+<img src="docs/framework.png" alt="" width="100%"/>
+</p>
+
+## Models
+Both the multitask and instruction tuning models are now available on Hugging Face!
+
+- [InfMLLM-7B]()
+- [InfMLLM-7B-Chat]()
 
 
-#### 1. Framework
-![](docs/pipeline.png)
+## Evaluation
 
+We conducted evaluations of the **InfMLLM-7B** multitask model across five VQA (Visual Question Answering) datasets and three visual grounding datasets. Meanwhile, the **InfMLLM-7B-Chat** model, tuned for instruction-following, was assessed on four VQA datasets and six multi-modal benchmarks. For detailed evaluation procedures, please refer to [Evaluation](docs/Evaluation.md).
 
-#### 2. Evaluation
+<p align="center">
+<img src="docs/performance_infmllm_7b.png" alt="" width="95%"/>
+</p>
 
-**MME**
+<p align="center">
+<img src="docs/performance_infmllm_7b_chat.png" alt="" width="80%"/>
+</p>
 
-To evaluate on [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) benchmark, run the following script.
+## Demo
+Trying **InfMLLM-7B-Chat** is straightforward. We've provided a [demo script](demo.py) to run on the following example image.
+
+<p align="center">
+<img src="docs/example_1.jpeg" alt="" width="70%"/>
+</p>
 
 ```
-checkpoint=ToOverwrite # trained model to replace
-python evaluate/mme/eval_infmllm_llama.py \
-    --model_type="infmllm_inference_llama" \
-    --vit_model="eva_clip_g" \
-    --image_size=448 \
-    --vision_adapter="pooler" \
-    --pool_out_size=16 \
-    --lm_model="pretrain_models/lmsys/vicuna-7b-v1.5/" \
-    --lm_tokenizer="pretrain_models/lmsys/vicuna-7b-v1.5/" \
-    --precision="amp_bf16" \
-    --conv_version="vicuna_v1" \
-    --checkpoint=${checkpoint}    
+CUDA_VISIBLE_DEVICES=0 python demo.py
 ```
+
+The conversation generated is shown below.
+
+<p align="center">
+<img src="docs/demo.png" alt="" width="90%"/>
+</p>
+
+
+## Citation
+
+```
+@misc{zhou2023infmllm,
+      title={InfMLLM: A Unified Framework for Visual-Language Tasks}, 
+      author={Qiang Zhou and Zhibin Wang and Wei Chu and Yinghui Xu and Hao Li and Yuan Qi},
+      year={2023},
+      eprint={2311.06791},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+## Acknowledgments
+This work wouldn't be possible without the incredible open-source code of these projects. Huge thanks!
+
+ - [BLIP2](https://github.com/salesforce/LAVIS)
+ - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+ - [LLaVA](https://github.com/haotian-liu/LLaVA)
